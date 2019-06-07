@@ -1,3 +1,3 @@
-def some_array
+def some_array_thats_empty
   []
 end 
