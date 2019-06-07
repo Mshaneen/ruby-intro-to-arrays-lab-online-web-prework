@@ -6,4 +6,11 @@ def my_two_array
   my_two_array = ["apples", "oranges"]
 end 
 
-def 
+def my_two_array
+  my_two_array.first 
+end
+
+def my_two_array
+  my_two_array.last 
+end
+
