@@ -1,3 +1,6 @@
 def my_new_array
   []
-end 
+end
+
+def my_two_array
+  
